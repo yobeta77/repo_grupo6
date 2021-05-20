@@ -1,4 +1,4 @@
 # repo_grupo6
 
-soy la segunda linea
+soy la primerea linea
 linea nueva
